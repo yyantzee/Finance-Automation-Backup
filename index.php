@@ -20,6 +20,7 @@
 </head>
 
 <body class="bg-black">
+    <?php include 'loading.php'; ?>
     <?php include 'appheader.php'; ?>
     <div class="relative" id="home">
         <div aria-hidden="true" class="absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20">
